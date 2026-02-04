@@ -168,6 +168,9 @@ img #msg{
     #result{
         font-size: 9px;
     }
+    #input-choice input{
+        font-size:5px;
+    }
 }
 
 
